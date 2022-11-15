@@ -115,4 +115,4 @@ I'm an Undergraduate CSE student trying to be a Full Stack Developer. Being a fu
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
