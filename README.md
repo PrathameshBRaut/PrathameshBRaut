@@ -26,7 +26,7 @@
 
 
 ### Glad to see you here!  
-I'm an Undergraduate CSE student trying to be a Full Stack Developer. Being a full-stack allows me to not only develop client-facing apps and websites but also develop them with cutting-edge backend support.
+I'm an Undergraduate CSE studentpassionate about technology and currently focusing on developing my skills in Machine Learning, AI, and Data Science. I enjoy using my computer science knowledge to create innovative solutions and solve real-world problems. I am driven to contribute to the tech industry's evolution and collaborate with like-minded individuals and organizations to bring new ideas to life.
 
  I love designing light yet powerful systems, distributed yet synchronized, and beautiful yet practical.   
   
