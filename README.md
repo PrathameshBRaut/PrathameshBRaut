@@ -34,7 +34,7 @@ I'm an Undergraduate CSE student passionate about technology and currently focus
 <br/>  
 
 
-## Rapidfire  
+## About Me
 <table><tr><td valign="top" width="50%">
 
 - 📓I'm currently studying at DYPU University  
@@ -46,9 +46,7 @@ I'm an Undergraduate CSE student passionate about technology and currently focus
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
 
-<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
@@ -91,7 +89,7 @@ I'm an Undergraduate CSE student passionate about technology and currently focus
 
 <br/>  
 
-/////
+
 
 
   
